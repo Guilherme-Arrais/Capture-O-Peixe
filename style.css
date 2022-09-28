@@ -1,0 +1,26 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom, blue 70% , #ecec0e);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 20pt;
+}
+button{
+    border: 0px;
+    padding: 0%;
+    height: 20px;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    padding: 0%;
+    height: 50px;
+    width: 50px;
+}
